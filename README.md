@@ -2,9 +2,9 @@
 Technical assignment:
 ## Installation
 To use this repository, you need to download it. Then you need to change the url of the username and password from your database demo/src/main/resources/initDB.sql 
-spring.datasource.url=/*jdbc:postgresql://localhost:5432/baza1*/
-spring.datasource.username=/*root*/
-spring.datasource.password=/*root*/
+spring.datasource.url=jdbc:postgresql://localhost:5432/baza1-----edit here
+spring.datasource.username=root-----edit here
+spring.datasource.password=root-----edit here
 
 
 Usage       
