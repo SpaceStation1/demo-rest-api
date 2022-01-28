@@ -1,10 +1,10 @@
 # demo-rest-api
 Technical assignment:
 ## Installation
-To use this repository, you need to download it. Then you need to change the name of the login and password from your database demo/src/main/resources/initDB.sql 
-spring.datasource.url=jdbc:postgresql://localhost:5432/baza1
-spring.datasource.username=root
-spring.datasource.password=root
+To use this repository, you need to download it. Then you need to change the url of the username and password from your database demo/src/main/resources/initDB.sql 
+spring.datasource.url=/*jdbc:postgresql://localhost:5432/baza1*/
+spring.datasource.username=/*root*/
+spring.datasource.password=/*root*/
 
 
 Usage       
