@@ -1,7 +1,7 @@
 # demo-rest-api
 Technical assignment:
 ## Installation
-To use this repository, you need to download it and execute statement in src/main/resources/database/initDB.sql to create a table.
+To use this repository, you need to download it.
 
 Usage       
 This application has multiple entry points:       
